@@ -21,5 +21,4 @@ public class Estoque {
         produtos.add(produto);
     }
 
-
 }
